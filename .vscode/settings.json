@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.https": {
+      "enable": true,
+      "cert": "D:/Scanbot/plain-js/https/localhost.pem",
+      "key": "D:/Scanbot/plain-js/https/localhost.key",
+      "passphrase": "test"
+    }
+  }
